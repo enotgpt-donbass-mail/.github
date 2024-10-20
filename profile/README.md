@@ -3,6 +3,7 @@
 ## Ссылки на продукт:
 - [Основная страница](https://frontend.enotgpt.ru/)
 - [Страница администратора](https://frontend.enotgpt.ru/dashboard)
+- [Экран терминала](https://frontend.enotgpt.ru/terminal_talon)
 - [Телеграм-бот](https://t.me/post_donbass_bookings_bot) `(коды авторизации сгенерировать на терминале или взять заготовленные в репозитории тг-бота оставлены`
 
 ## Преимущества
